@@ -1,0 +1,1 @@
+# 28.9.11_pydantic_tests_for_VK
